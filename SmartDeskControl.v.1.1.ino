@@ -25,7 +25,7 @@ BufferFiller bfill;
 #define relay3 4
 #define relay4 5
 
-#define button1 6
+#define anamaria 6
 #define button2 7
 #define button3 8
 #define button4 9
