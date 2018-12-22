@@ -34,7 +34,7 @@ BufferFiller bfill;
 
 // Relais (Disabled), Buttons, LightSensor Status
 bool relayStatus1 = true;
-bool relayStatus2 = true;
+bool ole = true;
 bool relayStatus3 = true;
 bool relayStatus4 = true;
 
